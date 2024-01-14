@@ -1,7 +1,7 @@
 # ExemplaryProject1  (Title of the project)
 # Authors 
-- Author 1
-- Author 2
+- Eryk Bluj
+- Mateusz Janus
 # Description of the project 
 Text here... 
 # Science and tech used 
