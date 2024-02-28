@@ -3,7 +3,11 @@
 - Eryk Bluj
 - Mateusz Janus
 # Description of the project 
-For our final project during Garage of Complexity course we decided to make an alarm clock. In order to switch it off it's necessary to light a photoresistor (or cover it if the light's already turned on in a room) placed in the chimney. The shape of the alarm clock resembles a garage to match the name of the course - "Garage of Complexity". Our garage alarm clock is shown in the photo below: **dorzucić zdjęcie** 
+For our final project during Garage of Complexity course we decided to make an alarm clock. In order to switch it off it's necessary to light a photoresistor (or cover it if the light's already turned on in a room) placed in the chimney. The shape of the alarm clock resembles a garage to match the name of the course - "Garage of Complexity". Our garage alarm clock is shown in the photo below: 
+
+<p align="center">
+<img src="https://github.com/ComplexityGarage/ExemplaryProject1/assets/104577187/8bb08fda-fac9-44b5-bbf4-b41ae17ff72a" width="400">
+
 # Science and tech used 
 The case was 3D printed and placed on a styrofoam base. The current time and time of an alarm are displayed on an lcd screen. A photoresistor placed in the chimney serves as a switch. An rtc module keeps track of  time. Two buttons in front of a garage allow a user to change both current and alarm time. There is also a piezoelectric speaker, which plays a simple melody when an alarm goes off. All constituents are connected to an Arduino UNO board through a breadboard.
 # State of the art 
