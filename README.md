@@ -1,3 +1,10 @@
+**IMPORTANT: while viewing the circuit diagram, please take notice of the fact that the RTC module is missing. It isn't available in Tinkercad components, that's why it couldn't be included in the diagram. RTC pins were connected to the Arduino board in a following way:**
+- VCC --> 5V
+- GND --> gnd
+- CLK --> D10 (digital pin 10)
+- DAT --> D9
+- RST --> D7
+
 # Light deactivated alarm clock in shape of a garage
 # Authors 
 - Eryk Bluj
