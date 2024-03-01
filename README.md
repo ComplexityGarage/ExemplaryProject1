@@ -13,7 +13,7 @@
 For our final project during Garage of Complexity course we decided to make an alarm clock. In order to switch it off it's necessary to light a photoresistor placed in the chimney. The shape of the alarm clock resembles a garage to match the name of the course - "Garage of Complexity". Our garage alarm clock is shown in the photo below: 
 
 <p align="center">
-<img src="https://github.com/ComplexityGarage/ExemplaryProject1/assets/104577187/8bb08fda-fac9-44b5-bbf4-b41ae17ff72a" width="400">
+<img src="https://github.com/ComplexityGarage/ExemplaryProject1/assets/104577187/8e26472c-64b3-4d22-9e41-16306ed59c64" width="500">
 
 # Science and tech used 
 List of items used in making the alarm clock:
